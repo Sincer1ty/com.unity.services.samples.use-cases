@@ -1,0 +1,34 @@
+{
+  "name": "com.unity.services.samples.use-cases",
+  "version": "1.0.0",
+  "description": "This Unity Gaming Services (UGS) Samples package contains a collection of samples designed to show you how you can use multiple UGS products to solve common game development challenges. These samples implement typical backend game use cases and game design elements, show how to resolve specific development tasks, and highlight the efficiency you can achieve in your game backend by integrating different UGS packages in your project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.2",
+    "axios-0.21": "npm:axios@^0.21.2",
+    "lodash": "4.17.21",
+    "lodash-4.17": "npm:lodash@^4.17",
+    "@unity-services/cloud-save": "file:Library\\PackageCache\\com.unity.services.cloudcode@2.5.0\\UnityServicesNpmLocal~\\cloud-save-0.0.5.tgz",
+    "@unity-services/cloud-save-1.0": "file:Library\\PackageCache\\com.unity.services.cloudcode@2.5.0\\UnityServicesNpmLocal~\\cloud-save-1.0.1.tgz",
+    "@unity-services/economy-2.0": "file:Library\\PackageCache\\com.unity.services.cloudcode@2.5.0\\UnityServicesNpmLocal~\\economy-2.0.2.tgz",
+    "@unity-services/economy-2.1": "file:Library\\PackageCache\\com.unity.services.cloudcode@2.5.0\\UnityServicesNpmLocal~\\economy-2.1.1.tgz",
+    "@unity-services/remote-config": "file:Library\\PackageCache\\com.unity.services.cloudcode@2.5.0\\UnityServicesNpmLocal~\\remote-config-0.0.4.tgz",
+    "@unity-services/remote-config-1.0": "file:Library\\PackageCache\\com.unity.services.cloudcode@2.5.0\\UnityServicesNpmLocal~\\remote-config-1.0.1.tgz",
+    "@unity-services/remote-config-1.1.0": "file:Library\\PackageCache\\com.unity.services.cloudcode@2.5.0\\UnityServicesNpmLocal~\\remote-config-1.1.0.tgz",
+    "@unity-services/remote-config-1.1.1": "file:Library\\PackageCache\\com.unity.services.cloudcode@2.5.0\\UnityServicesNpmLocal~\\remote-config-1.1.1.tgz",
+    "@unity-services/remote-config-1.1.2": "file:Library\\PackageCache\\com.unity.services.cloudcode@2.5.0\\UnityServicesNpmLocal~\\remote-config-1.1.2.tgz",
+    "@unity-services/vivox-0.1": "file:Library\\PackageCache\\com.unity.services.cloudcode@2.5.0\\UnityServicesNpmLocal~\\vivox-0.1.6.tgz",
+    "@unity-services/lobby-1.0": "file:Library\\PackageCache\\com.unity.services.cloudcode@2.5.0\\UnityServicesNpmLocal~\\lobby-1.0.1.tgz"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.177",
+    "@types/lodash-4.17": "npm:@types/lodash@^4.14.177"
+  },
+  "ccaVersion": "2.5.0"
+}

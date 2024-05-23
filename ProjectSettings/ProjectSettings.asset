@@ -158,7 +158,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.UnityTechnologies.UnityGamingServicesUseCases
-    Standalone: com.UnityTechnologies.UnityGamingServicesUseCases
+    Standalone: com.Unity-Technologies.Unity-Gaming-Services-Use-Cases
     iPhone: com.UnityTechnologies.UnityGamingServicesUseCases
   buildNumber:
     Standalone: 0
@@ -776,11 +776,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 82e06e34-8fcf-419e-9183-bea23769e215
+  cloudProjectId: ddf08b69-dd0f-43ae-9163-064095bcb331
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Unity Gaming Services Use Cases 2
-  organizationId: ugs-samples
+  projectName: Unity Gaming Services Use Cases
+  organizationId: woodsy0417
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
